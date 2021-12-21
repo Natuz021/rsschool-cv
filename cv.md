@@ -3,9 +3,8 @@
 * **E-mail:** af900@mail.ru
 * **Tel:** +7(966)197-59-98 
 ## About me
-Graphic designer, photographer. During the pandemic, i quit my office job. I am currently freelancing. I decided to acquire new skills in layout and programming in order to find an interesting and highly paid job in the future.
-
-I studied the layout of sites by myself, as I wanted to make up a test site with my photos, but I did not know how to do it. As a result, first I took a mini-course at the HTML Academy, and then I found courses at the RS School.
+<p>Graphic designer, photographer. During the pandemic, i quit my office job. I am currently freelancing. I decided to acquire new skills in layout and programming in order to find an interesting and highly paid job in the future.</p>
+<p>I studied the layout of sites by myself, as I wanted to make up a test site with my photos, but I did not know how to do it. As a result, first I took a mini-course at the HTML Academy, and then I found courses at the RS School.</p>
 ## Skills
 ### **Basic skills:**
 * HTML
@@ -19,7 +18,8 @@ I studied the layout of sites by myself, as I wanted to make up a test site with
 * AutoCAD
 * Hand drawing
 ## Code 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="utf-8">
