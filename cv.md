@@ -1,7 +1,7 @@
 # Natalia Simonenko
 ## Contacts
 * **E-mail:** af900@mail.ru
-* **Tel:** +7(966)1975998 
+* **Tel:** +7(966)197-59-98 
 ## About me
 Graphic designer, photographer. During the pandemic, i quit my office job. I am currently freelancing. I decided to acquire new skills in layout and programming in order to find an interesting and highly paid job in the future.
 
