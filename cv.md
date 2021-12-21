@@ -2,12 +2,10 @@
 ## Contacts
 * **E-mail:** af900@mail.ru
 * **Tel:** +7(966)1975998 
-*********
 ## About me
 Graphic designer, photographer. During the pandemic, i quit my office job. I am currently freelancing. I decided to acquire new skills in layout and programming in order to find an interesting and highly paid job in the future.
 
 I studied the layout of sites by myself, as I wanted to make up a test site with my photos, but I did not know how to do it. As a result, first I took a mini-course at the HTML Academy, and then I found courses at the RS School.
-*********
 ## Skills
 ### **Basic skills:**
 * HTML
@@ -20,7 +18,6 @@ I studied the layout of sites by myself, as I wanted to make up a test site with
 * 3DS Max
 * AutoCAD
 * Hand drawing
-*********
 ## Code 
 ```<!DOCTYPE html>
 <html lang="ru">
@@ -39,20 +36,16 @@ I studied the layout of sites by myself, as I wanted to make up a test site with
   </body>
 </html>
 ```
-***********
 ## Experience in WEB
 none
-***********
 ## Education
 * Moscow University of Public Administration (specialty "Design")
 * HTML academy 
 * RSSchool (at the stage)
-***********
 ## Language
 * **ESE Malta school:** English school on Malta. 2010. Level **B1**
 * **Japanese and Korean** (self-study)
 * **Spanish** (self-study)
-***********
 ## Social networks
 * [Instagram](https://www.instagram.com/simonenko.n/)
 * [Design instagram](https://www.instagram.com/natuz_design/)
