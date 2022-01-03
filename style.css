@@ -1,0 +1,157 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    min-height: 100vh;
+    margin: 0; padding: 0
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #362342;
+    color: #f8f0e4;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  .header {
+    background-color: #1d262d;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 4;
+  
+  }
+
+  .footer {
+    background-color:#1d262d ;
+    height: 70px;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 50px;
+    
+  }
+
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+  }
+
+  .section {
+    width: 50%;
+    margin-left: 100px;
+   
+   
+  }
+
+  .nav-list {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      list-style: none;
+      
+  }
+
+  .skills-list {
+    list-style: none;
+  }
+
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #f8f0e4;
+    transition: .3s;
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  .nav-link:hover {
+      color: fuchsia;
+  }
+
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  .myphoto {
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-left: 25px;
+    margin-top: 120px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+
+
+
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  #contacts {
+    background-color: #f8f0e4;
+    width: 380px;
+    height: 270px;
+    color: black;
+    text-align:;
+    padding: 10px  ;
+    line-height: 180%;
+    
+  }
+
+  #summary {
+    float: right;
+    position: relative;
+    top: -400px;
+    left: -150px;
+    line-height: 160%;
+    width: 500px;
+    height: 500px;
+    background-color: blanchedalmond;
+    color: black;
+    padding: 30px;
+
+  }
+
+  #code {
+    
+    
+  
+  }
+
+ 
+.section-list {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+}
+
+#pink {
+  color: rgb(206, 125, 247);
+}
+
+
+
+  
+
